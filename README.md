@@ -5,4 +5,4 @@
 #See My Certifitation:
 https://www.freecodecamp.org/certification/eckymelky/responsive-web-design
 
-![FREECODECAMP](https://raw.githubusercontent.com/melkyalfrianto/Freecodecamp-Responsive-Web-Design/main/Freecodecamp%20Certifitation.jpg)
+![FREECODECAMP](https://raw.githubusercontent.com/melkyalfrianto/Freecodecamp-Responsive-Web-Design-Certification-Projects/main/Freecodecamp%20Certifitation.jpg)
